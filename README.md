@@ -7,8 +7,11 @@ Alikhan-Nessus-Splunk-Integration  это  автоматизированная 
 git clone https://github.com/AlikhanKarabaevNEWPROJECT/Alikhan-Nessus-Splunk-Integration/
 
 cd Alikhan-Nessus-Splunk-Integration
+
 chmod +x nessus_splunk.py
+
 chmod +x servers.json
+
 
 
 3. Подготовьте данные для интеграции:
