@@ -3,7 +3,9 @@ Alikhan-Nessus-Splunk-Integration  это  автоматизированная 
 
 Быстрый старт интеграции Nessus - Splunk
 1. Клонируйте репозиторий:
+
 git clone https://github.com/AlikhanKarabaevNEWPROJECT/Alikhan-Nessus-Splunk-Integration/
+
 cd Alikhan-Nessus-Splunk-Integration
 chmod +x nessus_splunk.py
 chmod +x servers.json
